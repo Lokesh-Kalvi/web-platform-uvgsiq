@@ -1,0 +1,25 @@
+body{
+  background-color: #C6DCE4;
+}
+h1{
+  color: #F24C4C;
+  font-size: 3rem;
+  margin: 1rem;
+}
+h5{
+  padding: 1.5rem;
+  font-size: 1.5rem;
+}
+img{
+  width: 30rem;
+  left: 60rem;
+  border-radius: 2rem;
+}
+p{
+  padding: 3rem;
+  font-size: 20px;
+}
+.edit{
+  color: brown;
+  padding-left: 2rem;;
+}
